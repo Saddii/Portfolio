@@ -15,6 +15,7 @@
 | Project link | 
 | --- |
 | [Algorythms & Data Structures](https://github.com/Saddii/Python/tree/main/Sort%20Algorythms%2C%20Graphs%20etc) |
+| [Secant Method](https://github.com/Saddii/Python/blob/main/Secant%20Method/Secant_Method.ipynb) |
 
 ## R
 | Project link | 
