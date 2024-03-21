@@ -23,4 +23,8 @@
 | [City Quality of Life Analyst](https://github.com/Saddii/R/tree/main/Raport2)|
 | [Telecommunication Client Analysis](https://github.com/Saddii/R/tree/main/Raport1) |
 
+## Haskell
+| Project link | 
+| --- |
+| [Tree Creator](https://github.com/Saddii/Haskell/tree/main) |
 
