@@ -18,14 +18,14 @@
 | [Secant Method](https://github.com/Saddii/Python/blob/main/Secant%20Method/Secant_Method.ipynb) |  An implementation of the secant method in Python for solving nonlinear equations numerically, offering an iterative approach to find roots efficiently. |
 
 ## R
-| Project link | 
-| --- |
-| [Iris Clasification](https://github.com/Saddii/R/tree/main/Raport3) |
-| [City Quality of Life Analyst](https://github.com/Saddii/R/tree/main/Raport2)|
-| [Telecommunication Client Analysis](https://github.com/Saddii/R/tree/main/Raport1) |
+| Project link | Description |
+| --- | --- |
+| [Iris Clasification](https://github.com/Saddii/R/tree/main/Raport3) | Implementing machine learning models to classify iris flowers accurately based on their characteristics, facilitating species identification and botanical research. |
+| [City Quality of Life Analyst](https://github.com/Saddii/R/tree/main/Raport2)| Employing Principal Component Analysis (PCA) to assess and compare the quality of life across different cities, enabling efficient dimensionality reduction and insightful visualization of complex urban data. |
+| [Telecommunication Client Analysis](https://github.com/Saddii/R/tree/main/Raport1) | Applying data analytics techniques to analyze customer behavior and preferences in the telecommunications sector, enabling targeted marketing strategies and enhancing service offerings. |
 
 ## Haskell
-| Project link | 
-| --- |
-| [Tree Creator](https://github.com/Saddii/Haskell/tree/main) |
+| Project link | Description |
+| --- | --- |
+| [Tree Creator](https://github.com/Saddii/Haskell/tree/main) | Implementation of a tree visualization tool using Haskell. |
 
