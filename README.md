@@ -1,9 +1,9 @@
 # Portfolio
 
-## Data
-| Project link | Date | Description | 
-| --- | --- | --- | 
-| [Data Base Project](https://github.com/Saddii/DTB_proj) | 2023 May | The project involves generating a database, analyzing the data, and creating a PDF report. |
+## Main Projects
+| Project link | Area | Date | Description | 
+| --- | --- | --- | --- |
+| [Data Base Project](https://github.com/Saddii/DTB_proj) |Data analyst with: <br> Sql, Python, Pandas. | 2023 May | The project involves generating a database, analyzing the data, and creating a PDF report. |
 
 
 ## Machine Learning
