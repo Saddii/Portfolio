@@ -12,10 +12,10 @@
 | [Digit recognition](https://github.com/Saddii/Simple_Neural_Networks) | A simple neural network implemented in Python for digit recognition. | 
 
 ## Python 
-| Project link | 
-| --- |
-| [Algorythms & Data Structures](https://github.com/Saddii/Python/tree/main/Sort%20Algorythms%2C%20Graphs%20etc) |
-| [Secant Method](https://github.com/Saddii/Python/blob/main/Secant%20Method/Secant_Method.ipynb) |
+| Project link | Description |
+| --- | --- |
+| [Algorythms & Data Structures](https://github.com/Saddii/Python/tree/main/Sort%20Algorythms%2C%20Graphs%20etc) | A comprehensive collection of algorithms and data structures implemented in Python for various computational tasks and problem-solving challenges. |
+| [Secant Method](https://github.com/Saddii/Python/blob/main/Secant%20Method/Secant_Method.ipynb) |  An implementation of the secant method in Python for solving nonlinear equations numerically, offering an iterative approach to find roots efficiently. |
 
 ## R
 | Project link | 
