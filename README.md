@@ -3,7 +3,7 @@
 ## Main Projects
 | Project link | Area | Date | Description | 
 | --- | --- | --- | --- |
-| [Analysis of Phone calls](https://github.com/Saddii/Calls-analysis) |Power BI, Python, scipy, numpy, pandas | This report presents a comprehensive analysis of phone calls in the context of new product launches, considering various price groups and product packages. |
+| [Analysis of Phone calls](https://github.com/Saddii/Calls-analysis) |Power BI, Python, scipy, numpy, pandas | 2024 May | This report presents a comprehensive analysis of phone calls in the context of new product launches, considering various price groups and product packages. |
 | [Data Base Project](https://github.com/Saddii/DTB_proj) |Data analysis with: <br> Sql, Python, Pandas. | 2023 May | The project involves generating a database, analyzing the data, and creating a PDF report. |
 | [Private key generator](https://github.com/Saddii/Python/tree/main/Key_generator_GUI) | Python Cryptography | 2022 June | Desktop application allowing for the generation, import, and management of private keys for signing text files. | 
 
